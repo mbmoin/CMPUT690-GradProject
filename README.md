@@ -16,5 +16,6 @@ If using colab notebook, the 'by-article' dataset and GoogleNews-vectors-negativ
 should be stored in Google Drive following the directory structure from submitted the code.
 
 ## Data:
-Dataset available at:  https://zenodo.org/record/5776081#.YljDSujMI2w \n
+Dataset is available at:  https://zenodo.org/record/5776081#.YljDSujMI2w
+
 GoogleNews-vectors-negative300.bin.gz available at: https://drive.google.com/file/d/0B7XkCwpI5KDYNlNUTTlSS21pQmM/edit?usp=sharing
