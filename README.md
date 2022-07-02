@@ -13,7 +13,7 @@ Overview: https://pan.webis.de/semeval19/semeval19-web/index.html
 
 ## Execution:
 If using colab notebook, the 'by-article' dataset and GoogleNews-vectors-negative300.bin.gz
-should be stored in Google Drive following the directory structure from submitted the code.
+should be stored in Google Drive following the directory structure from the submitted code.
 
 ## Data:
 Dataset is available at:  https://zenodo.org/record/5776081#.YljDSujMI2w
